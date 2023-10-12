@@ -1,4 +1,7 @@
-commands:
-1.in anaconda prompt type - "conda activate Thyroid"
-2. now type - "cd C:\Users\hp\Downloads\project"
-3. lastly type - "python app.py"
+Steps to execute the project for final output :
+1.Download the "THYROID" file under 'Project File' folder which is available in my GitHub repository.
+2.In anaconda prompt activate the code for running the file
+eg - "conda activate Thyroid"(this is the code which I use in my laptop for execution).
+3. Now go to the respective location where the file is downloaded and click on the and copy its path,
+eg- "cd C:\Users\hp\Desktop\THYROID"
+4. Lastly type - "python app.py" and copy the link which you get and run it in a browser for final output.
