@@ -1,0 +1,4 @@
+commands:
+1.in anaconda prompt type - "conda activate Thyroid"
+2. now type - "cd C:\Users\hp\Downloads\project"
+3. lastly type - "python app.py"
